@@ -9,5 +9,5 @@
 
 💮 How to reach me:
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](martyna.szczekocka@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martyna-szczekocka/)
+[![image](https://user-images.githubusercontent.com/80424268/114605924-e5d88100-9c9a-11eb-9b73-d59b8c9ec2dd.png)](https://www.linkedin.com/in/martyna-szczekocka/)
+[![image](https://user-images.githubusercontent.com/80424268/114606186-449dfa80-9c9b-11eb-9ffd-d6b8dce86737.png)](martyna.szczekocka@gmail.com)
