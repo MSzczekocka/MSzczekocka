@@ -1,7 +1,8 @@
 
-![About Me](https://user-images.githubusercontent.com/80424268/114613224-5388ab00-9ca3-11eb-82fa-7f822ce9347f.png)
 
-<img class="center" alt="GIF" src="https://user-images.githubusercontent.com/80424268/114612543-8f6f4080-9ca2-11eb-92e5-e8b10a2c075b.png" width="150" height="150" />
+<img class="center" alt="GIF" src="https://user-images.githubusercontent.com/80424268/114613224-5388ab00-9ca3-11eb-82fa-7f822ce9347f.png" width="150" height="150" />
+
+<img class="right" alt="GIF" src="https://user-images.githubusercontent.com/80424268/114612543-8f6f4080-9ca2-11eb-92e5-e8b10a2c075b.png" width="150" height="150" />
 
 
 
